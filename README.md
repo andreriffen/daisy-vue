@@ -4,7 +4,7 @@
 
 ## 🕹️ [Demonstração (GitHub Pages) »](link_para_demo_no_github_pages)
 
-Você pode conferir o projeto **Vue-Daisy** em ação [**clicando aqui »»**](link_para_demo_no_github_pages)
+Você pode conferir o projeto **Vue-Daisy** em ação [**clicando aqui »»**](https://andreriffen.github.io/daisy-vue/)
 
 - Descrição Geral
 - Sobre o funcionamento
