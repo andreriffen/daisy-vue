@@ -1,7 +1,7 @@
 <template>
 <main>
     <div id="content" class="mx-auto max-w-9xl sm:px-6 sm:pt-20 lg:px-8 lg:pt-16 lg:pb-6">
-      <div class="hero min-h-screen" style="background-image: url(../assets/hero-bg.jpg);">
+      <div class="hero min-h-screen" style="background-image: url(/assets/hero-bg.jpg);">
         <div class="hero-overlay bg-opacity-40"></div>
         <div class="hero-content text-center text-neutral-content">
           <div class="max-w-md">
