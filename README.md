@@ -1,6 +1,6 @@
 # Vue-Daisy Project
 
-![Project Preview](link_para_sua_imagem_de_preview.jpg)
+![Project Preview](https://github.com/andreriffen/daisy-vue/blob/dd8affe9c5634e9aebc9cf215b5d992c5c26f913/assets/preview.jpg)
 
 ## 🕹️ [Demonstração (GitHub Pages) »](link_para_demo_no_github_pages)
 
