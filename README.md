@@ -18,11 +18,11 @@ Você pode conferir o projeto **Vue-Daisy** em ação [**clicando aqui »»**](h
 
 ## `README.md`
 
-Bem-vindo ao repositório do projeto **Vue-Daisy**. Este é um projeto full stack que utiliza Vue.js com DaisyUI, Vite e outras tecnologias para criar interfaces atraentes e funcionais.
+Bem-vindo ao repositório do projeto **Vue-Daisy**. Este é um protótipo front-end que utiliza Vue.js com DaisyUI, Vite e outras tecnologias para criar interfaces atraentes e funcionais.
 
 ## ℹ️ Descrição Geral
 
-O projeto **Vue-Daisy** é um exemplo de aplicativo web desenvolvido com tecnologias modernas como Vue.js, DaisyUI e Vite. Ele demonstra a construção de uma interface interativa e responsiva, explorando as melhores práticas de desenvolvimento front-end e back-end.
+O projeto **Vue-Daisy** é um exemplo de aplicativo web desenvolvido com tecnologias modernas como Vue.js, DaisyUI e Vite. Ele demonstra a construção de uma interface interativa e responsiva, explorando as melhores práticas de desenvolvimento front-end.
 
 ### ⚙️ Sobre o funcionamento
 
@@ -37,7 +37,7 @@ A aplicação utiliza o **Vue JS** construído com **Vite**⚡ para criar compon
 
 ### 💬 Observações
 
-Este projeto foi criado com fins educativos e para aprimorar habilidades em desenvolvimento full stack. Sinta-se à vontade para explorar o código e entender como as diferentes tecnologias foram integradas.
+Este projeto foi criado com fins educativos e para aprimorar habilidades em desenvolvimento web. Sinta-se à vontade para explorar o código e entender como as diferentes tecnologias foram integradas.
 
 No entanto, é apenas um protótipo e não tem destino certo ainda. Estou buscando melhores abordagens e objetivos mais apropriados para esse experimento.
 
