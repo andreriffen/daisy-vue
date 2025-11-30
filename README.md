@@ -84,7 +84,7 @@ Contexto é sempre muito bom. Então para isso eu fiz uma pequeno mapa em `.lua`
 
 ### ☕ Autor
 
-- 2024 ©️ **Andre Riffen** - [Perfil GitHub](https://github.com/andreriffen)
+- 2024 ©️ [**Andre Riffen**](https://andreriffen.github.io/resume/)
 
 ### 📜 Licença
 
